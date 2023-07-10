@@ -1,5 +1,5 @@
 
-# Second Project
+# Ecosystem Simulation Game / Second Project
 (because it was developed based on C++ project and was extended with additional GUI iterface)
 
 ## Description
