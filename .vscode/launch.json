@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SecondProject",
+            "request": "launch",
+            "mainClass": "project2.SecondProject",
+            "projectName": "secondProject_d0af4ad5"
+        }
+    ]
+}
